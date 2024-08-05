@@ -1,6 +1,3 @@
-SQL project to analyze online music store data
-a## README
-
 ### Project Overview
 This project implements a MySQL database for a music store. The database stores information about customers, employees, products (including albums, tracks, and instruments), purchases, and more.
 
